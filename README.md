@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Nagar</h1>
 <h3 align="center">A passionate Software Engineer at HCLTech, from India</h3>
  
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **Angular**
  
 - 📫 How to reach me **sknagar260404@gmail.com**
  
